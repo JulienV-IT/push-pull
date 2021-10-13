@@ -17,3 +17,5 @@ Git pull
 _le pull peu etre utiliser de manieres différentes si l'on travail sur un fork ou une branche differentes de celles par default_
 
 _A ne pas confondre avec l'animal, descendants des dinausaures, :dragon_face:_
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
