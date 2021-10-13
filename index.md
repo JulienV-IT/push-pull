@@ -4,7 +4,7 @@
 	
 	**Au contraire du pull, le push permet d'envoyer nos données sur le depot distant aprés avoir été vérifié par d'autre commandes comme le add et le commit**
 
-	_Bien évidement si votre projet s'appel Mamie, ON NE PUSH PAS MAMIE DANS LES ORTIES_
+	_Bien évidement si votre projet s'appel Mamie, ON NE PUSH PAS :older_woman: MAMIE DANS LES ORTIES_
 
 
 
